@@ -17,4 +17,4 @@ jobs:
         server: ftp.1629984164023-sh.bigrock.in
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: https://md-in-55.webhostbox.net:2083/cpsess4672265305/frontend/jupiter/filemanager/index.html/
+        server-dir: /home4/a1629nsi/technoxdemosite8.online/
